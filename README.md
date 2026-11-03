@@ -1,1 +1,1 @@
-# SudeNurKilic_HTML_CV
+html dili ile oluşturulmuş kişisel portfolyo
